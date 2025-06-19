@@ -49,8 +49,8 @@
         <mxCell id="ck79tmLTaK3czLnN_i7b-45" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="594.38" width="80" height="36.25" as="geometry" />
         </mxCell>
-        <mxCell id="ck79tmLTaK3czLnN_i7b-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="335" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="ck79tmLTaK3czLnN_i7b-46" value="选择课程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="618" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
