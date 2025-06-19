@@ -101,7 +101,16 @@
           <mxGeometry x="260" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xEPO2h2H-BWjrn0bb5mU-22" value="课程号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="400" width="70" height="30" as="geometry" />
+          <mxGeometry x="390" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xEPO2h2H-BWjrn0bb5mU-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.746;exitY=-0.057;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.276;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xEPO2h2H-BWjrn0bb5mU-20" target="xEPO2h2H-BWjrn0bb5mU-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
