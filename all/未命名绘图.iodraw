@@ -49,7 +49,7 @@
             <mxPoint x="220" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck79tmLTaK3czLnN_i7b-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ck79tmLTaK3czLnN_i7b-14" value="教师课程查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="940" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
