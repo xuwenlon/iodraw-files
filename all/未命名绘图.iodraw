@@ -71,6 +71,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ck79tmLTaK3czLnN_i7b-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ck79tmLTaK3czLnN_i7b-14" target="ck79tmLTaK3czLnN_i7b-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ck79tmLTaK3czLnN_i7b-14" value="教师课程查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="980" width="80" height="30" as="geometry" />
         </mxCell>
@@ -85,6 +88,9 @@
         </mxCell>
         <mxCell id="ck79tmLTaK3czLnN_i7b-30" value="学生成绩" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="910" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck79tmLTaK3czLnN_i7b-32" value="教师任课情况" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="977.5" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
