@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="ck79tmLTaK3czLnN_i7b-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1010" as="sourcePoint" />
+            <mxPoint x="180" y="980" as="sourcePoint" />
             <mxPoint x="180" y="830" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="930" />
@@ -50,13 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ck79tmLTaK3czLnN_i7b-14" value="教师课程查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="930" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ck79tmLTaK3czLnN_i7b-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1010" as="sourcePoint" />
-            <mxPoint x="210" y="1007.5" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="225" y="940" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
