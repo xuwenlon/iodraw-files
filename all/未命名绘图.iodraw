@@ -28,10 +28,13 @@
         <mxCell id="ck79tmLTaK3czLnN_i7b-42" value="讲课" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="618" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ck79tmLTaK3czLnN_i7b-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ck79tmLTaK3czLnN_i7b-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ck79tmLTaK3czLnN_i7b-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="600" as="sourcePoint" />
-            <mxPoint x="410" y="600" as="targetPoint" />
+            <mxPoint x="420" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="627" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
