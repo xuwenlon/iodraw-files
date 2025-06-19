@@ -4,16 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ck79tmLTaK3czLnN_i7b-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ck79tmLTaK3czLnN_i7b-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="995" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ck79tmLTaK3czLnN_i7b-17" value="学生信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="790" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ck79tmLTaK3czLnN_i7b-34" value="教师与学生关系查询" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1020" width="100" height="30" as="geometry" />
+        <mxCell id="ck79tmLTaK3czLnN_i7b-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="585" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
