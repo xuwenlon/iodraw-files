@@ -4,6 +4,12 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ck79tmLTaK3czLnN_i7b-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="919.75" as="sourcePoint" />
+            <mxPoint x="180" y="919.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ck79tmLTaK3czLnN_i7b-0" value="学院信息管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="830" width="40" height="180" as="geometry" />
         </mxCell>
